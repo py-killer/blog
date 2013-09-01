@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://py-killer.github.io//github/atom.xml" rel="self"/>
+  <link href="http://py-killer.github.io//github/"/>
+  <updated>2013-09-01T22:51:59+08:00</updated>
+  <id>http://py-killer.github.io//github/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
